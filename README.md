@@ -5,6 +5,8 @@
 > Tài liệu này là bản tra cứu duy nhất cho bộ mã RISC-V pipeline trong `risc-v.zip`.
 > Bản gốc được giữ nguyên; toàn bộ mã bên dưới là bản đã chỉnh sửa.
 
+![RISC-V Pipeline Architecture](./Risc-V_Pipe_w_harzard_full.png)
+
 ## 1. Mục lục nhanh
 
 - [Phạm vi thiết kế](#2-phạm-vi-thiết-kế)
